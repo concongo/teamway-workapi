@@ -16,7 +16,7 @@ For the sake of this exercise the following assumptions have been made
 * Worker Model and its attributes are simplied for test purposes.
 * The Data model is abstracted for just one company and locality.
 * Django and DRF Framework have been picked for the development of the task.
-* No Paginitation has been implemented
+* No Pagination has been implemented
 
 ----
 ### **Data Model**
